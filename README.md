@@ -8,4 +8,4 @@
 ### 使用技術
 React hooks 
 
-
+[DEMO](https://yuniniwu.github.io/gomoku-game)
